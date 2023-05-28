@@ -2,7 +2,7 @@ Simple Fruit Ninja Game using Java
 
 Before playing the game, There are some tips you have to know:
 
-The game currently supports classic mode only.
+The game supports classic mode only.
 You shouldn't press the mouse while slicing the fruits,
 You slice the fruits or bombs by just moving the mouse over it.
 If you moved the mouse while holding left click it wont slice,
